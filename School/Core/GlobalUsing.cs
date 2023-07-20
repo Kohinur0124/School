@@ -1,0 +1,10 @@
+﻿global using School.Core.Abstract;
+global using School.Core.Enums;
+global using School.Core.Interface;
+global using System;
+global using System.Collections.Generic;
+global using System.ComponentModel.DataAnnotations;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using Microsoft.EntityFrameworkCore;
